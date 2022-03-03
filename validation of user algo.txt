@@ -1,0 +1,9 @@
+Algorithm for validation of user login
+
+Project Name: Validation of user login
+In this project we are going to take the input from the webpage and validate whether the user given details are correct or incorrect
+Step 1: Here we have developed the code in java servlet for the login details.
+Step 2: Made the URL mapping in between servlet and html code.
+Step 3: Developed the html code to take the input and verify and validation. 
+
+
